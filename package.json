@@ -1,22 +1,22 @@
 {
   "name": "@elmnt/use-hooks",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React hooks library which allow you to simplify your coding experience",
   "keywords": [
-      ""
+    ""
   ],
   "author": "Element Studio <support@weareelement.studio> (https://weareelement.studio/)",
   "contributors": [
     {
-        "name" : "Jaybee",
-        "email" : "jbaptiste@weareelement.studio",
-        "url" : "https://weareelement.studio/"
-      },
-      {
-        "name" : "aureldvx",
-        "email" : "aurelien@weareelement.studio",
-        "url" : "https://weareelement.studio/"
-      }
+      "name": "Jaybee",
+      "email": "jbaptiste@weareelement.studio",
+      "url": "https://weareelement.studio/"
+    },
+    {
+      "name": "aureldvx",
+      "email": "aurelien@weareelement.studio",
+      "url": "https://weareelement.studio/"
+    }
   ],
   "license": "GPL-3.0",
   "repository": "elmtstudio/use-hooks",
